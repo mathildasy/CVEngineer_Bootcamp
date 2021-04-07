@@ -1,0 +1,94 @@
+---
+title: "LS"
+author: "Yaochen Zhu"
+date: "April 4, 2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message=FALSE, warning=FALSE}
+library(dplyr)
+```
+
+
+```{r}
+senti <- read.csv("~/GitHub/CVEngineer_Bootcamp/sentiment_sentence.csv")
+char <- read.csv("~/GitHub/CVEngineer_Bootcamp/character_sentence.csv")
+ends <- read.csv("~/GitHub/CVEngineer_Bootcamp/chapter_ends.csv")
+```
+
+
+```{r}
+senti_invest = senti[2,-1] # anger
+#senti_compound[,darcy_app]
+```
+
+```{r}
+x = seq(-10, 10, by = 1)
+y = 10*dnorm(x, mean = 0, sd = 1)
+
+kernel <- function(id, one_d_data = senti_invest, weight = y, window = 21){
+  smooth = 0
+  if (id >= (window-1)/2 & id <= (dim(one_d_data)[2] - (window-1)/2)){
+    smooth = sum(weight * one_d_data[1,(id-(window-1)/2):(id+(window-1)/2)])
+  } else if (id < (window-1)/2) {
+    smooth = sum(weight[((window+1)/2-id):window] * one_d_data[1,1:(id+(window-1)/2)])
+  } else {
+    length  = (window+1)/2 + dim(one_d_data)[2]-id
+    smooth = sum(weight[1:length] * one_d_data[1,id-((window-1)/2):id-((window-1)/2)+length-1])
+  }
+  return(smooth)
+}
+
+```
+
+
+```{r}
+library(matlib)
+
+contribution = matrix(0L, nrow = dim(char[,-1])[1], ncol = dim(char[,-1])[2])
+
+for (i in 1:dim(char)[1]){
+  
+char_app = which(char[i,-1] == 1)
+
+contribution[i, char_app] = sapply(char_app, kernel)
+
+}
+
+# contribution 14*5584
+
+
+# ridge regression
+
+range_invest = ends[c((1),(61+1)),2] # FROM where to where
+
+
+lambdas = 10^seq(2,-3, by= -0.1)
+cost = 0
+
+y = t(data.matrix(senti_invest))[rang_invest[1]:range_invest[2]]
+X = contribution[,rang_invest[1]:range_invest[2]]
+
+for (lambda in lambdas){
+  
+y_hat = t(X) %*% inv(X %*% t(X) + lambda * diag(dim(X)[1])) %*% X %*% y
+
+cost = c(cost ,norm(y-y_hat, type= "2"))
+  
+}
+
+cost = cost[-1]
+lambda_choose = lambdas[which.min(cost)]
+
+beta = inv(X %*% t(X) + lambda_choose * diag(dim(X)[1])) %*% X %*% y
+
+beta = beta/norm(beta, type='2')
+
+plot(1:14, beta, xlim = c(0,14), main = 'overall negative sentiment contribution')
+text(1:14, beta, char[,1], cex=0.6, pos=2, col="blue")
+```
+

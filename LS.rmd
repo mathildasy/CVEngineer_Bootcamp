@@ -62,33 +62,36 @@ contribution[i, char_app] = sapply(char_app, kernel)
 # contribution 14*5584
 
 
+library(glmnet)
+
 # ridge regression
 
-range_invest = ends[c((1),(61+1)),2] # FROM where to where
+range_invest = ends[c((1),(10+1)),2] # FROM where to where
+lambdas <- 10^seq(2, -3, by = -.1)
+alpha_choice = c(0,1)
+
+y = t(data.matrix(senti_invest))[range_invest[1]:range_invest[2]]
+X = t(contribution[,range_invest[1]:range_invest[2]])
 
 
-lambdas = 10^seq(2,-3, by= -0.1)
-cost = 0
+cv_ridge <- cv.glmnet(X, y, alpha = alpha_choice[1], lambda = lambdas)
+optimal_lambda <- cv_ridge$lambda.min
+optimal_lambda
 
-y = t(data.matrix(senti_invest))[rang_invest[1]:range_invest[2]]
-X = contribution[,rang_invest[1]:range_invest[2]]
+ridge_reg = glmnet(X,y, alpha = alpha_choice[1], family = 'gaussian', lambda = optimal_lambda)
 
-for (lambda in lambdas){
-  
-y_hat = t(X) %*% inv(X %*% t(X) + lambda * diag(dim(X)[1])) %*% X %*% y
 
-cost = c(cost ,norm(y-y_hat, type= "2"))
-  
-}
-
-cost = cost[-1]
-lambda_choose = lambdas[which.min(cost)]
-
-beta = inv(X %*% t(X) + lambda_choose * diag(dim(X)[1])) %*% X %*% y
-
+beta = as.vector(ridge_reg[["beta"]])
 beta = beta/norm(beta, type='2')
 
 plot(1:14, beta, xlim = c(0,14), main = 'overall negative sentiment contribution')
 text(1:14, beta, char[,1], cex=0.6, pos=2, col="blue")
 ```
+
+
+
+```{r}
+library(tidyverse)
+```
+
 

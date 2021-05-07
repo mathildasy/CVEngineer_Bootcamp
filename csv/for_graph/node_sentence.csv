@@ -1,19 +1,19 @@
 Id,Label,Weight
-Mr. Darcy,Mr. Darcy,396
-Mr. Bingley,Mr. Bingley,199
-Elizabeth,Elizabeth,786
-Miss Bingley,Miss Bingley,84
+Mr. Darcy,Mr. Darcy,398
+Mr. Bingley,Mr. Bingley,304
+Elizabeth,Elizabeth,696
+Miss Bingley,Miss Bingley,100
 Lydia,Lydia,160
-Catherine,Catherine,222
-Mary,Mary,193
+Lady Catherine,Lady Catherine,111
+Mary,Mary,76
 Georgiana,Georgiana,14
-Collins,Collins,273
-Charlotte,Charlotte,667
+Collins,Collins,187
+Charlotte,Charlotte,104
 Mr. Wickham,Mr. Wickham,64
 Miss de Bourgh,Miss de Bourgh,20
 Mr. Bennet,Mr. Bennet,74
 Mrs. Bennet,Mrs. Bennet,128
-Jane,Jane,308
+Jane,Jane,290
 Louisa,Louisa,6
 Mr. Hurst,Mr. Hurst,11
 Lucases,Lucases,13
@@ -27,4 +27,3 @@ Fitzwilliam,Fitzwilliam,33
 Colonel Forster,Colonel Forster,27
 Mrs. Forster,Mrs. Forster,11
 Mr. Jones,Mr. Jones,5
-Lady Catherine,Lady Catherine,111

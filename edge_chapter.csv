@@ -1,0 +1,785 @@
+Source,Target,Weight
+Mr. Darcy,Mr. Darcy,0.005357142857142858
+Mr. Darcy,Mr. Bingley,0.08650272758267984
+Mr. Darcy,Elizabeth,0.08152201740911418
+Mr. Darcy,Miss Bingley,0.08319597069597068
+Mr. Darcy,Lydia,0.07152480752780153
+Mr. Darcy,Lady Catherine,0.07418305378831694
+Mr. Darcy,Mary,0.07743316624895571
+Mr. Darcy,Georgiana,0.09602380952380953
+Mr. Darcy,Collins,0.06933563748079877
+Mr. Darcy,Charlotte,0.0736053180396246
+Mr. Darcy,Mr. Wickham,0.07910143509458577
+Mr. Darcy,Miss de Bourgh,0.07560507674144037
+Mr. Darcy,Mr. Bennet,0.0642032967032967
+Mr. Darcy,Mrs. Bennet,0.07421790235081374
+Mr. Darcy,Jane,0.08373829039812646
+Mr. Darcy,Louisa,0.08708791208791208
+Mr. Darcy,Mr. Hurst,0.0863095238095238
+Mr. Darcy,Lucases,0.07305625790139064
+Mr. Darcy,Miss Lucas,0.06375408942202836
+Mr. Darcy,Sir William,0.06669734904270985
+Mr. Darcy,Mrs. Gardiner,0.08364661654135337
+Mr. Darcy,Mr. Gardiner,0.08392857142857142
+Mr. Darcy,Mr. Phillips,0.07821428571428571
+Mr. Darcy,Mrs. Phillips,0.0769360902255639
+Mr. Darcy,Fitzwilliam,0.0998015873015873
+Mr. Darcy,Colonel Forster,0.07246240601503759
+Mr. Darcy,Mrs. Forster,0.07335714285714286
+Mr. Darcy,Mr. Jones,0.07769756838905774
+Mr. Bingley,Mr. Darcy,0.07648684997011355
+Mr. Bingley,Mr. Bingley,0.005357142857142858
+Mr. Bingley,Elizabeth,0.07238223246287762
+Mr. Bingley,Miss Bingley,0.0863095238095238
+Mr. Bingley,Lydia,0.058800256629597945
+Mr. Bingley,Lady Catherine,0.07074175824175824
+Mr. Bingley,Mary,0.07494778613199665
+Mr. Bingley,Georgiana,0.09602380952380953
+Mr. Bingley,Collins,0.06933563748079877
+Mr. Bingley,Charlotte,0.0705031282586027
+Mr. Bingley,Mr. Wickham,0.05581376386170907
+Mr. Bingley,Miss de Bourgh,0.05453069657615112
+Mr. Bingley,Mr. Bennet,0.05112637362637363
+Mr. Bingley,Mrs. Bennet,0.06345840867992766
+Mr. Bingley,Jane,0.07328747072599531
+Mr. Bingley,Louisa,0.08708791208791208
+Mr. Bingley,Mr. Hurst,0.0863095238095238
+Mr. Bingley,Lucases,0.06553413400758533
+Mr. Bingley,Miss Lucas,0.06375408942202836
+Mr. Bingley,Sir William,0.07107879234167894
+Mr. Bingley,Mrs. Gardiner,0.0612781954887218
+Mr. Bingley,Mr. Gardiner,0.048214285714285716
+Mr. Bingley,Mr. Phillips,0.07821428571428571
+Mr. Bingley,Mrs. Phillips,0.06798872180451127
+Mr. Bingley,Fitzwilliam,0.07146825396825396
+Mr. Bingley,Colonel Forster,0.035181704260651626
+Mr. Bingley,Mrs. Forster,0.005357142857142858
+Mr. Bingley,Mr. Jones,0.07769756838905774
+Elizabeth,Mr. Darcy,0.09426927674835624
+Elizabeth,Mr. Bingley,0.09461728605523355
+Elizabeth,Elizabeth,0.005357142857142858
+Elizabeth,Miss Bingley,0.0863095238095238
+Elizabeth,Lydia,0.08933917878528656
+Elizabeth,Lady Catherine,0.09483082706766915
+Elizabeth,Mary,0.08986006683375103
+Elizabeth,Georgiana,0.09602380952380953
+Elizabeth,Collins,0.09218509984639017
+Elizabeth,Charlotte,0.0891162669447341
+Elizabeth,Mr. Wickham,0.09074527071102412
+Elizabeth,Miss de Bourgh,0.09667945690672963
+Elizabeth,Mr. Bennet,0.09035714285714286
+Elizabeth,Mrs. Bennet,0.09143309222423146
+Elizabeth,Jane,0.09418911007025761
+Elizabeth,Louisa,0.08708791208791208
+Elizabeth,Mr. Hurst,0.0863095238095238
+Elizabeth,Lucases,0.08810050568900125
+Elizabeth,Miss Lucas,0.07673118865866957
+Elizabeth,Sir William,0.08422312223858615
+Elizabeth,Mrs. Gardiner,0.08923872180451127
+Elizabeth,Mr. Gardiner,0.09821428571428571
+Elizabeth,Mr. Phillips,0.07821428571428571
+Elizabeth,Mrs. Phillips,0.0769360902255639
+Elizabeth,Fitzwilliam,0.0998015873015873
+Elizabeth,Colonel Forster,0.08737468671679197
+Elizabeth,Mrs. Forster,0.09035714285714286
+Elizabeth,Mr. Jones,0.07769756838905774
+Miss Bingley,Mr. Darcy,0.04981320980274955
+Miss Bingley,Mr. Bingley,0.0581017729287419
+Miss Bingley,Elizabeth,0.04496287762416795
+Miss Bingley,Miss Bingley,0.005357142857142858
+Miss Bingley,Lydia,0.03335115483319076
+Miss Bingley,Lady Catherine,0.0397700983227299
+Miss Bingley,Mary,0.05009398496240601
+Miss Bingley,Georgiana,0.06202380952380952
+Miss Bingley,Collins,0.04420122887864823
+Miss Bingley,Charlotte,0.04568561001042753
+Miss Bingley,Mr. Wickham,0.036407371167645135
+Miss Bingley,Miss de Bourgh,0.04048110979929162
+Miss Bingley,Mr. Bennet,0.03151098901098901
+Miss Bingley,Mrs. Bennet,0.037635623869801085
+Miss Bingley,Jane,0.04541861826697892
+Miss Bingley,Louisa,0.08708791208791208
+Miss Bingley,Mr. Hurst,0.0863095238095238
+Miss Bingley,Lucases,0.042967762326169404
+Miss Bingley,Miss Lucas,0.05726553980370774
+Miss Bingley,Sir William,0.057934462444771725
+Miss Bingley,Mrs. Gardiner,0.03331766917293233
+Miss Bingley,Mr. Gardiner,0.026785714285714288
+Miss Bingley,Mr. Phillips,0.05392857142857143
+Miss Bingley,Mrs. Phillips,0.05009398496240601
+Miss Bingley,Fitzwilliam,0.05257936507936508
+Miss Bingley,Colonel Forster,0.035181704260651626
+Miss Bingley,Mrs. Forster,0.005357142857142858
+Miss Bingley,Mr. Jones,0.059612462006079024
+Lydia,Mr. Darcy,0.05159145248057382
+Lydia,Mr. Bingley,0.04795857483804978
+Lydia,Elizabeth,0.055625960061443935
+Lydia,Miss Bingley,0.03960622710622711
+Lydia,Lydia,0.005357142857142858
+Lydia,Lady Catherine,0.05353528050896472
+Lydia,Mary,0.06003550543024227
+Lydia,Georgiana,0.03935714285714286
+Lydia,Collins,0.05334101382488479
+Lydia,Charlotte,0.03948123044838373
+Lydia,Mr. Wickham,0.05581376386170907
+Lydia,Miss de Bourgh,0.04750590318772137
+Lydia,Mr. Bennet,0.08381868131868131
+Lydia,Mrs. Bennet,0.0699141048824593
+Lydia,Jane,0.05761124121779859
+Lydia,Louisa,0.021703296703296706
+Lydia,Mr. Hurst,0.03234126984126984
+Lydia,Lucases,0.05048988621997472
+Lydia,Miss Lucas,0.044288440567066524
+Lydia,Sir William,0.04479013254786451
+Lydia,Mrs. Gardiner,0.05568609022556391
+Lydia,Mr. Gardiner,0.055357142857142855
+Lydia,Mr. Phillips,0.05392857142857143
+Lydia,Mrs. Phillips,0.06798872180451127
+Lydia,Fitzwilliam,0.024246031746031748
+Lydia,Colonel Forster,0.07991854636591478
+Lydia,Mrs. Forster,0.09035714285714286
+Lydia,Mr. Jones,0.059612462006079024
+Lady Catherine,Mr. Darcy,0.04092199641362821
+Lady Catherine,Mr. Bingley,0.04390129560177293
+Lady Catherine,Elizabeth,0.04496287762416795
+Lady Catherine,Miss Bingley,0.036492673992673995
+Lady Catherine,Lydia,0.04098588537211292
+Lady Catherine,Lady Catherine,0.005357142857142858
+Lady Catherine,Mary,0.03766708437761069
+Lady Catherine,Georgiana,0.050690476190476196
+Lady Catherine,Collins,0.05791090629800307
+Lady Catherine,Charlotte,0.05499217935349322
+Lady Catherine,Mr. Wickham,0.036407371167645135
+Lady Catherine,Miss de Bourgh,0.07560507674144037
+Lady Catherine,Mr. Bennet,0.03478021978021978
+Lady Catherine,Mrs. Bennet,0.039787522603978304
+Lady Catherine,Jane,0.038451405152224824
+Lady Catherine,Louisa,0.005357142857142858
+Lady Catherine,Mr. Hurst,0.005357142857142858
+Lady Catherine,Lucases,0.0354456384323641
+Lady Catherine,Miss Lucas,0.03779989094874591
+Lady Catherine,Sir William,0.04917157584683358
+Lady Catherine,Mrs. Gardiner,0.03890977443609023
+Lady Catherine,Mr. Gardiner,0.026785714285714288
+Lady Catherine,Mr. Phillips,0.029642857142857144
+Lady Catherine,Mrs. Phillips,0.032199248120300755
+Lady Catherine,Fitzwilliam,0.05257936507936508
+Lady Catherine,Colonel Forster,0.020269423558897243
+Lady Catherine,Mrs. Forster,0.005357142857142858
+Lady Catherine,Mr. Jones,0.02344224924012158
+Mary,Mr. Darcy,0.056926180514046625
+Mary,Mr. Bingley,0.062159052165018755
+Mary,Elizabeth,0.05714925755248336
+Mary,Miss Bingley,0.061401098901098905
+Mary,Lydia,0.06134516680923867
+Mary,Lady Catherine,0.05009398496240601
+Mary,Mary,0.005357142857142858
+Mary,Georgiana,0.07335714285714286
+Mary,Collins,0.05334101382488479
+Mary,Charlotte,0.04258342022940563
+Mary,Mr. Wickham,0.05581376386170907
+Mary,Miss de Bourgh,0.04048110979929162
+Mary,Mr. Bennet,0.06093406593406594
+Mary,Mrs. Bennet,0.05915461121157324
+Mary,Jane,0.05761124121779859
+Mary,Louisa,0.07074175824175824
+Mary,Mr. Hurst,0.07281746031746031
+Mary,Lucases,0.05048988621997472
+Mary,Miss Lucas,0.05726553980370774
+Mary,Sir William,0.04479013254786451
+Mary,Mrs. Gardiner,0.05009398496240601
+Mary,Mr. Gardiner,0.055357142857142855
+Mary,Mr. Phillips,0.07821428571428571
+Mary,Mrs. Phillips,0.05009398496240601
+Mary,Fitzwilliam,0.03369047619047619
+Mary,Colonel Forster,0.05009398496240601
+Mary,Mrs. Forster,0.03935714285714286
+Mary,Mr. Jones,0.059612462006079024
+Georgiana,Mr. Darcy,0.019583084279736998
+Georgiana,Mr. Bingley,0.02158625980225026
+Georgiana,Elizabeth,0.01754352278545827
+Georgiana,Miss Bingley,0.020924908424908427
+Georgiana,Lydia,0.012991873396065013
+Georgiana,Lady Catherine,0.019122325043377675
+Georgiana,Mary,0.020269423558897243
+Georgiana,Georgiana,0.005357142857142858
+Georgiana,Collins,0.012211981566820277
+Georgiana,Charlotte,0.008459332638164755
+Georgiana,Mr. Wickham,0.013119699934768428
+Georgiana,Miss de Bourgh,0.026431523022432114
+Georgiana,Mr. Bennet,0.008626373626373628
+Georgiana,Mrs. Bennet,0.013964737793851718
+Georgiana,Jane,0.015807962529274005
+Georgiana,Louisa,0.03804945054945055
+Georgiana,Mr. Hurst,0.018849206349206348
+Georgiana,Lucases,0.012879266750948169
+Georgiana,Miss Lucas,0.011845692475463469
+Georgiana,Sir William,0.00973858615611193
+Georgiana,Mrs. Gardiner,0.022133458646616543
+Georgiana,Mr. Gardiner,0.019642857142857142
+Georgiana,Mr. Phillips,0.005357142857142858
+Georgiana,Mrs. Phillips,0.005357142857142858
+Georgiana,Fitzwilliam,0.024246031746031748
+Georgiana,Colonel Forster,0.005357142857142858
+Georgiana,Mrs. Forster,0.005357142857142858
+Georgiana,Mr. Jones,0.005357142857142858
+Collins,Mr. Darcy,0.055147937836222356
+Collins,Mr. Bingley,0.062159052165018755
+Collins,Elizabeth,0.06324244751664107
+Collins,Miss Bingley,0.05828754578754579
+Collins,Lydia,0.058800256629597945
+Collins,Lady Catherine,0.08450694042799306
+Collins,Mary,0.057550125313283206
+Collins,Georgiana,0.03935714285714286
+Collins,Collins,0.005357142857142858
+Collins,Charlotte,0.0798096976016684
+Collins,Mr. Wickham,0.05193248532289628
+Collins,Miss de Bourgh,0.08262987012987012
+Collins,Mr. Bennet,0.06093406593406594
+Collins,Mrs. Bennet,0.06345840867992766
+Collins,Jane,0.05935304449648712
+Collins,Louisa,0.021703296703296706
+Collins,Mr. Hurst,0.03234126984126984
+Collins,Lucases,0.06553413400758533
+Collins,Miss Lucas,0.07024263904034896
+Collins,Sir William,0.07107879234167894
+Collins,Mrs. Gardiner,0.04450187969924812
+Collins,Mr. Gardiner,0.048214285714285716
+Collins,Mr. Phillips,0.029642857142857144
+Collins,Mrs. Phillips,0.05009398496240601
+Collins,Fitzwilliam,0.06202380952380952
+Collins,Colonel Forster,0.05009398496240601
+Collins,Mrs. Forster,0.03935714285714286
+Collins,Mr. Jones,0.0415273556231003
+Charlotte,Mr. Darcy,0.044478481769276754
+Charlotte,Mr. Bingley,0.04795857483804978
+Charlotte,Elizabeth,0.046486175115207376
+Charlotte,Miss Bingley,0.04583333333333333
+Charlotte,Lydia,0.03335115483319076
+Charlotte,Lady Catherine,0.06041787160208213
+Charlotte,Mary,0.035181704260651626
+Charlotte,Georgiana,0.016690476190476193
+Charlotte,Collins,0.06019585253456221
+Charlotte,Charlotte,0.005357142857142858
+Charlotte,Mr. Wickham,0.04416992824527071
+Charlotte,Miss de Bourgh,0.04750590318772137
+Charlotte,Mr. Bennet,0.03804945054945055
+Charlotte,Mrs. Bennet,0.041939421338155515
+Charlotte,Jane,0.04716042154566745
+Charlotte,Louisa,0.021703296703296706
+Charlotte,Mr. Hurst,0.03234126984126984
+Charlotte,Lucases,0.05801201011378002
+Charlotte,Miss Lucas,0.07673118865866957
+Charlotte,Sir William,0.07107879234167894
+Charlotte,Mrs. Gardiner,0.04450187969924812
+Charlotte,Mr. Gardiner,0.033928571428571426
+Charlotte,Mr. Phillips,0.029642857142857144
+Charlotte,Mrs. Phillips,0.032199248120300755
+Charlotte,Fitzwilliam,0.05257936507936508
+Charlotte,Colonel Forster,0.027725563909774435
+Charlotte,Mrs. Forster,0.005357142857142858
+Charlotte,Mr. Jones,0.02344224924012158
+Mr. Wickham,Mr. Darcy,0.03914375373580395
+Mr. Wickham,Mr. Bingley,0.031729457892942375
+Mr. Wickham,Elizabeth,0.03886968766001024
+Mr. Wickham,Miss Bingley,0.030265567765567766
+Mr. Wickham,Lydia,0.0384409751924722
+Mr. Wickham,Lady Catherine,0.03288750722961249
+Mr. Wickham,Mary,0.03766708437761069
+Mr. Wickham,Georgiana,0.028023809523809527
+Mr. Wickham,Collins,0.03277649769585253
+Mr. Wickham,Charlotte,0.036379040667361834
+Mr. Wickham,Mr. Wickham,0.005357142857142858
+Mr. Wickham,Miss de Bourgh,0.04750590318772137
+Mr. Wickham,Mr. Bennet,0.03804945054945055
+Mr. Wickham,Mrs. Bennet,0.037635623869801085
+Mr. Wickham,Jane,0.0367096018735363
+Mr. Wickham,Louisa,0.021703296703296706
+Mr. Wickham,Mr. Hurst,0.018849206349206348
+Mr. Wickham,Lucases,0.0354456384323641
+Mr. Wickham,Miss Lucas,0.0313113413304253
+Mr. Wickham,Sir William,0.03164580265095729
+Mr. Wickham,Mrs. Gardiner,0.04450187969924812
+Mr. Wickham,Mr. Gardiner,0.055357142857142855
+Mr. Wickham,Mr. Phillips,0.05392857142857143
+Mr. Wickham,Mrs. Phillips,0.05009398496240601
+Mr. Wickham,Fitzwilliam,0.05257936507936508
+Mr. Wickham,Colonel Forster,0.035181704260651626
+Mr. Wickham,Mrs. Forster,0.056357142857142856
+Mr. Wickham,Mr. Jones,0.02344224924012158
+Miss de Bourgh,Mr. Darcy,0.023139569635385535
+Miss de Bourgh,Mr. Bingley,0.01955762018411183
+Miss de Bourgh,Elizabeth,0.025160010240655405
+Miss de Bourgh,Miss Bingley,0.020924908424908427
+Miss de Bourgh,Lydia,0.020626603934987168
+Miss de Bourgh,Lady Catherine,0.0397700983227299
+Miss de Bourgh,Mary,0.01778404344193818
+Miss de Bourgh,Georgiana,0.03935714285714286
+Miss de Bourgh,Collins,0.030491551459293397
+Miss de Bourgh,Charlotte,0.023970281543274245
+Miss de Bourgh,Mr. Wickham,0.02864481409001957
+Miss de Bourgh,Miss de Bourgh,0.005357142857142858
+Miss de Bourgh,Mr. Bennet,0.018434065934065935
+Miss de Bourgh,Mrs. Bennet,0.024724231464737796
+Miss de Bourgh,Jane,0.01754976580796253
+Miss de Bourgh,Louisa,0.021703296703296706
+Miss de Bourgh,Mr. Hurst,0.018849206349206348
+Miss de Bourgh,Lucases,0.005357142857142858
+Miss de Bourgh,Miss Lucas,0.02482279171210469
+Miss de Bourgh,Sir William,0.027264359351988218
+Miss de Bourgh,Mrs. Gardiner,0.005357142857142858
+Miss de Bourgh,Mr. Gardiner,0.0125
+Miss de Bourgh,Mr. Phillips,0.029642857142857144
+Miss de Bourgh,Mrs. Phillips,0.01430451127819549
+Miss de Bourgh,Fitzwilliam,0.03369047619047619
+Miss de Bourgh,Colonel Forster,0.020269423558897243
+Miss de Bourgh,Mrs. Forster,0.02235714285714286
+Miss de Bourgh,Mr. Jones,0.005357142857142858
+Mr. Bennet,Mr. Darcy,0.03736551105797968
+Mr. Bennet,Mr. Bingley,0.033758097511080803
+Mr. Bennet,Elizabeth,0.04496287762416795
+Mr. Bennet,Miss Bingley,0.030265567765567766
+Mr. Bennet,Lydia,0.0664349871685201
+Mr. Bennet,Lady Catherine,0.0363288027761712
+Mr. Bennet,Mary,0.04760860484544695
+Mr. Bennet,Georgiana,0.016690476190476193
+Mr. Bennet,Collins,0.04420122887864823
+Mr. Bennet,Charlotte,0.036379040667361834
+Mr. Bennet,Mr. Wickham,0.04416992824527071
+Mr. Bennet,Miss de Bourgh,0.033456316410861865
+Mr. Bennet,Mr. Bennet,0.005357142857142858
+Mr. Bennet,Mrs. Bennet,0.05700271247739602
+Mr. Bennet,Jane,0.04541861826697892
+Mr. Bennet,Louisa,0.021703296703296706
+Mr. Bennet,Mr. Hurst,0.03234126984126984
+Mr. Bennet,Lucases,0.027923514538558788
+Mr. Bennet,Miss Lucas,0.044288440567066524
+Mr. Bennet,Sir William,0.04040868924889544
+Mr. Bennet,Mrs. Gardiner,0.03890977443609023
+Mr. Bennet,Mr. Gardiner,0.048214285714285716
+Mr. Bennet,Mr. Phillips,0.029642857142857144
+Mr. Bennet,Mrs. Phillips,0.05904135338345865
+Mr. Bennet,Fitzwilliam,0.024246031746031748
+Mr. Bennet,Colonel Forster,0.057550125313283206
+Mr. Bennet,Mrs. Forster,0.09035714285714286
+Mr. Bennet,Mr. Jones,0.0415273556231003
+Mrs. Bennet,Mr. Darcy,0.06226090854751942
+Mrs. Bennet,Mr. Bingley,0.060130412546880334
+Mrs. Bennet,Elizabeth,0.0662890424987199
+Mrs. Bennet,Miss Bingley,0.05206043956043956
+Mrs. Bennet,Lydia,0.08170444824636441
+Mrs. Bennet,Lady Catherine,0.06041787160208213
+Mrs. Bennet,Mary,0.06749164578111946
+Mrs. Bennet,Georgiana,0.050690476190476196
+Mrs. Bennet,Collins,0.06705069124423964
+Mrs. Bennet,Charlotte,0.05809436913451512
+Mrs. Bennet,Mr. Wickham,0.06357632093933463
+Mrs. Bennet,Miss de Bourgh,0.06858028335301063
+Mrs. Bennet,Mr. Bennet,0.08381868131868131
+Mrs. Bennet,Mrs. Bennet,0.005357142857142858
+Mrs. Bennet,Jane,0.06632025761124122
+Mrs. Bennet,Louisa,0.03804945054945055
+Mrs. Bennet,Mr. Hurst,0.05932539682539682
+Mrs. Bennet,Lucases,0.08057838179519594
+Mrs. Bennet,Miss Lucas,0.06375408942202836
+Mrs. Bennet,Sir William,0.04917157584683358
+Mrs. Bennet,Mrs. Gardiner,0.05009398496240601
+Mrs. Bennet,Mr. Gardiner,0.055357142857142855
+Mrs. Bennet,Mr. Phillips,0.05392857142857143
+Mrs. Bennet,Mrs. Phillips,0.06798872180451127
+Mrs. Bennet,Fitzwilliam,0.03369047619047619
+Mrs. Bennet,Colonel Forster,0.07246240601503759
+Mrs. Bennet,Mrs. Forster,0.09035714285714286
+Mrs. Bennet,Mr. Jones,0.059612462006079024
+Jane,Mr. Darcy,0.0853780633592349
+Jane,Mr. Bingley,0.08447408796454142
+Jane,Elizabeth,0.0830453149001536
+Jane,Miss Bingley,0.07696886446886447
+Jane,Lydia,0.08170444824636441
+Jane,Lady Catherine,0.07074175824175824
+Jane,Mary,0.07991854636591478
+Jane,Georgiana,0.07335714285714286
+Jane,Collins,0.07619047619047618
+Jane,Charlotte,0.0798096976016684
+Jane,Mr. Wickham,0.07522015655577298
+Jane,Miss de Bourgh,0.05453069657615112
+Jane,Mr. Bennet,0.08054945054945055
+Jane,Mrs. Bennet,0.08067359855334538
+Jane,Jane,0.005357142857142858
+Jane,Louisa,0.08708791208791208
+Jane,Mr. Hurst,0.0863095238095238
+Jane,Lucases,0.08057838179519594
+Jane,Miss Lucas,0.07024263904034896
+Jane,Sir William,0.06669734904270985
+Jane,Mrs. Gardiner,0.08364661654135337
+Jane,Mr. Gardiner,0.09107142857142857
+Jane,Mr. Phillips,0.05392857142857143
+Jane,Mrs. Phillips,0.06798872180451127
+Jane,Fitzwilliam,0.08091269841269841
+Jane,Colonel Forster,0.07991854636591478
+Jane,Mrs. Forster,0.09035714285714286
+Jane,Mr. Jones,0.07769756838905774
+Louisa,Mr. Darcy,0.014248356246264197
+Louisa,Mr. Bingley,0.015500340947834982
+Louisa,Elizabeth,0.01297363031233999
+Louisa,Miss Bingley,0.020924908424908427
+Louisa,Lydia,0.007902053036783577
+Louisa,Lady Catherine,0.005357142857142858
+Louisa,Mary,0.015298663324979114
+Louisa,Georgiana,0.028023809523809527
+Louisa,Collins,0.007642089093701998
+Louisa,Charlotte,0.008459332638164755
+Louisa,Mr. Wickham,0.009238421395955643
+Louisa,Miss de Bourgh,0.01238193624557261
+Louisa,Mr. Bennet,0.008626373626373628
+Louisa,Mrs. Bennet,0.009660940325497289
+Louisa,Jane,0.014066159250585481
+Louisa,Louisa,0.005357142857142858
+Louisa,Mr. Hurst,0.05932539682539682
+Louisa,Lucases,0.005357142857142858
+Louisa,Miss Lucas,0.011845692475463469
+Louisa,Sir William,0.00973858615611193
+Louisa,Mrs. Gardiner,0.010949248120300752
+Louisa,Mr. Gardiner,0.0125
+Louisa,Mr. Phillips,0.029642857142857144
+Louisa,Mrs. Phillips,0.01430451127819549
+Louisa,Fitzwilliam,0.005357142857142858
+Louisa,Colonel Forster,0.01281328320802005
+Louisa,Mrs. Forster,0.005357142857142858
+Louisa,Mr. Jones,0.0415273556231003
+Mr. Hurst,Mr. Darcy,0.016026598924088465
+Mr. Hurst,Mr. Bingley,0.017528980565973407
+Mr. Hurst,Elizabeth,0.014496927803379418
+Mr. Hurst,Miss Bingley,0.02403846153846154
+Mr. Hurst,Lydia,0.010446963216424295
+Mr. Hurst,Lady Catherine,0.005357142857142858
+Mr. Hurst,Mary,0.01778404344193818
+Mr. Hurst,Georgiana,0.016690476190476193
+Mr. Hurst,Collins,0.009927035330261139
+Mr. Hurst,Charlotte,0.011561522419186654
+Mr. Hurst,Mr. Wickham,0.009238421395955643
+Mr. Hurst,Miss de Bourgh,0.01238193624557261
+Mr. Hurst,Mr. Bennet,0.011895604395604397
+Mr. Hurst,Mrs. Bennet,0.013964737793851718
+Mr. Hurst,Jane,0.015807962529274005
+Mr. Hurst,Louisa,0.07074175824175824
+Mr. Hurst,Mr. Hurst,0.005357142857142858
+Mr. Hurst,Lucases,0.005357142857142858
+Mr. Hurst,Miss Lucas,0.01833424209378408
+Mr. Hurst,Sir William,0.014120029455081003
+Mr. Hurst,Mrs. Gardiner,0.005357142857142858
+Mr. Hurst,Mr. Gardiner,0.005357142857142858
+Mr. Hurst,Mr. Phillips,0.029642857142857144
+Mr. Hurst,Mrs. Phillips,0.01430451127819549
+Mr. Hurst,Fitzwilliam,0.005357142857142858
+Mr. Hurst,Colonel Forster,0.01281328320802005
+Mr. Hurst,Mrs. Forster,0.005357142857142858
+Mr. Hurst,Mr. Jones,0.0415273556231003
+Lucases,Mr. Darcy,0.02136132695756127
+Lucases,Mr. Bingley,0.02158625980225026
+Lucases,Elizabeth,0.02211341525857655
+Lucases,Miss Bingley,0.020924908424908427
+Lucases,Lydia,0.020626603934987168
+Lucases,Lady Catherine,0.019122325043377675
+Lucases,Mary,0.020269423558897243
+Lucases,Georgiana,0.016690476190476193
+Lucases,Collins,0.023636712749615978
+Lucases,Charlotte,0.027072471324296143
+Lucases,Mr. Wickham,0.020882257012393997
+Lucases,Miss de Bourgh,0.005357142857142858
+Lucases,Mr. Bennet,0.015164835164835164
+Lucases,Mrs. Bennet,0.02687613019891501
+Lucases,Jane,0.022775175644028103
+Lucases,Louisa,0.005357142857142858
+Lucases,Mr. Hurst,0.005357142857142858
+Lucases,Lucases,0.005357142857142858
+Lucases,Miss Lucas,0.0313113413304253
+Lucases,Sir William,0.027264359351988218
+Lucases,Mrs. Gardiner,0.022133458646616543
+Lucases,Mr. Gardiner,0.0125
+Lucases,Mr. Phillips,0.005357142857142858
+Lucases,Mrs. Phillips,0.02325187969924812
+Lucases,Fitzwilliam,0.014801587301587302
+Lucases,Colonel Forster,0.027725563909774435
+Lucases,Mrs. Forster,0.02235714285714286
+Lucases,Mr. Jones,0.02344224924012158
+Miss Lucas,Mr. Darcy,0.02136132695756127
+Miss Lucas,Mr. Bingley,0.02361489942038868
+Miss Lucas,Elizabeth,0.02211341525857655
+Miss Lucas,Miss Bingley,0.030265567765567766
+Miss Lucas,Lydia,0.020626603934987168
+Miss Lucas,Lady Catherine,0.02256362058993638
+Miss Lucas,Mary,0.025240183792815372
+Miss Lucas,Georgiana,0.016690476190476193
+Miss Lucas,Collins,0.028206605222734257
+Miss Lucas,Charlotte,0.03948123044838373
+Miss Lucas,Mr. Wickham,0.020882257012393997
+Miss Lucas,Miss de Bourgh,0.026431523022432114
+Miss Lucas,Mr. Bennet,0.024972527472527473
+Miss Lucas,Mrs. Bennet,0.024724231464737796
+Miss Lucas,Jane,0.022775175644028103
+Miss Lucas,Louisa,0.021703296703296706
+Miss Lucas,Mr. Hurst,0.03234126984126984
+Miss Lucas,Lucases,0.0354456384323641
+Miss Lucas,Miss Lucas,0.005357142857142858
+Miss Lucas,Sir William,0.04479013254786451
+Miss Lucas,Mrs. Gardiner,0.016541353383458645
+Miss Lucas,Mr. Gardiner,0.005357142857142858
+Miss Lucas,Mr. Phillips,0.005357142857142858
+Miss Lucas,Mrs. Phillips,0.01430451127819549
+Miss Lucas,Fitzwilliam,0.014801587301587302
+Miss Lucas,Colonel Forster,0.01281328320802005
+Miss Lucas,Mrs. Forster,0.005357142857142858
+Miss Lucas,Mr. Jones,0.005357142857142858
+Sir William,Mr. Darcy,0.030252540346682608
+Sir William,Mr. Bingley,0.03578673712921923
+Sir William,Elizabeth,0.03277649769585253
+Sir William,Miss Bingley,0.04271978021978022
+Sir William,Lydia,0.028261334473909328
+Sir William,Lady Catherine,0.0397700983227299
+Sir William,Mary,0.027725563909774435
+Sir William,Georgiana,0.016690476190476193
+Sir William,Collins,0.03963133640552995
+Sir William,Charlotte,0.051889989572471325
+Sir William,Mr. Wickham,0.02864481409001957
+Sir William,Miss de Bourgh,0.04048110979929162
+Sir William,Mr. Bennet,0.03151098901098901
+Sir William,Mrs. Bennet,0.02687613019891501
+Sir William,Jane,0.029742388758782202
+Sir William,Louisa,0.021703296703296706
+Sir William,Mr. Hurst,0.03234126984126984
+Sir William,Lucases,0.042967762326169404
+Sir William,Miss Lucas,0.06375408942202836
+Sir William,Sir William,0.005357142857142858
+Sir William,Mrs. Gardiner,0.027725563909774435
+Sir William,Mr. Gardiner,0.0125
+Sir William,Mr. Phillips,0.029642857142857144
+Sir William,Mrs. Phillips,0.032199248120300755
+Sir William,Fitzwilliam,0.024246031746031748
+Sir William,Colonel Forster,0.027725563909774435
+Sir William,Mrs. Forster,0.005357142857142858
+Sir William,Mr. Jones,0.0415273556231003
+Mrs. Gardiner,Mr. Darcy,0.030252540346682608
+Mrs. Gardiner,Mr. Bingley,0.025643539038527105
+Mrs. Gardiner,Elizabeth,0.028206605222734257
+Mrs. Gardiner,Miss Bingley,0.020924908424908427
+Mrs. Gardiner,Lydia,0.028261334473909328
+Mrs. Gardiner,Lady Catherine,0.026004916136495086
+Mrs. Gardiner,Mary,0.025240183792815372
+Mrs. Gardiner,Georgiana,0.03935714285714286
+Mrs. Gardiner,Collins,0.021351766513056838
+Mrs. Gardiner,Charlotte,0.027072471324296143
+Mrs. Gardiner,Mr. Wickham,0.032526092628832354
+Mrs. Gardiner,Miss de Bourgh,0.005357142857142858
+Mrs. Gardiner,Mr. Bennet,0.024972527472527473
+Mrs. Gardiner,Mrs. Bennet,0.02257233273056058
+Mrs. Gardiner,Jane,0.029742388758782202
+Mrs. Gardiner,Louisa,0.021703296703296706
+Mrs. Gardiner,Mr. Hurst,0.005357142857142858
+Mrs. Gardiner,Lucases,0.027923514538558788
+Mrs. Gardiner,Miss Lucas,0.01833424209378408
+Mrs. Gardiner,Sir William,0.022882916053019148
+Mrs. Gardiner,Mrs. Gardiner,0.005357142857142858
+Mrs. Gardiner,Mr. Gardiner,0.08392857142857142
+Mrs. Gardiner,Mr. Phillips,0.005357142857142858
+Mrs. Gardiner,Mrs. Phillips,0.032199248120300755
+Mrs. Gardiner,Fitzwilliam,0.024246031746031748
+Mrs. Gardiner,Colonel Forster,0.035181704260651626
+Mrs. Gardiner,Mrs. Forster,0.056357142857142856
+Mrs. Gardiner,Mr. Jones,0.005357142857142858
+Mr. Gardiner,Mr. Darcy,0.024917812313209806
+Mr. Gardiner,Mr. Bingley,0.017528980565973407
+Mr. Gardiner,Elizabeth,0.025160010240655405
+Mr. Gardiner,Miss Bingley,0.014697802197802198
+Mr. Gardiner,Lydia,0.023171514114627888
+Mr. Gardiner,Lady Catherine,0.01568102949681897
+Mr. Gardiner,Mary,0.02275480367585631
+Mr. Gardiner,Georgiana,0.028023809523809527
+Mr. Gardiner,Collins,0.019066820276497694
+Mr. Gardiner,Charlotte,0.017765901981230448
+Mr. Gardiner,Mr. Wickham,0.032526092628832354
+Mr. Gardiner,Miss de Bourgh,0.01238193624557261
+Mr. Gardiner,Mr. Bennet,0.024972527472527473
+Mr. Gardiner,Mrs. Bennet,0.020420433996383363
+Mr. Gardiner,Jane,0.026258782201405154
+Mr. Gardiner,Louisa,0.021703296703296706
+Mr. Gardiner,Mr. Hurst,0.005357142857142858
+Mr. Gardiner,Lucases,0.012879266750948169
+Mr. Gardiner,Miss Lucas,0.005357142857142858
+Mr. Gardiner,Sir William,0.00973858615611193
+Mr. Gardiner,Mrs. Gardiner,0.0668703007518797
+Mr. Gardiner,Mr. Gardiner,0.005357142857142858
+Mr. Gardiner,Mr. Phillips,0.005357142857142858
+Mr. Gardiner,Mrs. Phillips,0.01430451127819549
+Mr. Gardiner,Fitzwilliam,0.024246031746031748
+Mr. Gardiner,Colonel Forster,0.035181704260651626
+Mr. Gardiner,Mrs. Forster,0.056357142857142856
+Mr. Gardiner,Mr. Jones,0.005357142857142858
+Mr. Phillips,Mr. Darcy,0.01069187089061566
+Mr. Phillips,Mr. Bingley,0.011443061711558133
+Mr. Phillips,Elizabeth,0.009927035330261139
+Mr. Phillips,Miss Bingley,0.011584249084249085
+Mr. Phillips,Lydia,0.010446963216424295
+Mr. Phillips,Lady Catherine,0.008798438403701562
+Mr. Phillips,Mary,0.01281328320802005
+Mr. Phillips,Georgiana,0.005357142857142858
+Mr. Phillips,Collins,0.007642089093701998
+Mr. Phillips,Charlotte,0.008459332638164755
+Mr. Phillips,Mr. Wickham,0.013119699934768428
+Mr. Phillips,Miss de Bourgh,0.01238193624557261
+Mr. Phillips,Mr. Bennet,0.008626373626373628
+Mr. Phillips,Mrs. Bennet,0.009660940325497289
+Mr. Phillips,Jane,0.008840749414519906
+Mr. Phillips,Louisa,0.021703296703296706
+Mr. Phillips,Mr. Hurst,0.018849206349206348
+Mr. Phillips,Lucases,0.005357142857142858
+Mr. Phillips,Miss Lucas,0.005357142857142858
+Mr. Phillips,Sir William,0.00973858615611193
+Mr. Phillips,Mrs. Gardiner,0.005357142857142858
+Mr. Phillips,Mr. Gardiner,0.005357142857142858
+Mr. Phillips,Mr. Phillips,0.005357142857142858
+Mr. Phillips,Mrs. Phillips,0.02325187969924812
+Mr. Phillips,Fitzwilliam,0.014801587301587302
+Mr. Phillips,Colonel Forster,0.01281328320802005
+Mr. Phillips,Mrs. Forster,0.005357142857142858
+Mr. Phillips,Mr. Jones,0.02344224924012158
+Mrs. Phillips,Mr. Darcy,0.019583084279736998
+Mrs. Phillips,Mr. Bingley,0.01955762018411183
+Mrs. Phillips,Elizabeth,0.01754352278545827
+Mrs. Phillips,Miss Bingley,0.020924908424908427
+Mrs. Phillips,Lydia,0.023171514114627888
+Mrs. Phillips,Lady Catherine,0.01568102949681897
+Mrs. Phillips,Mary,0.01778404344193818
+Mrs. Phillips,Georgiana,0.005357142857142858
+Mrs. Phillips,Collins,0.016781874039938558
+Mrs. Phillips,Charlotte,0.01466371220020855
+Mrs. Phillips,Mr. Wickham,0.024763535551206785
+Mrs. Phillips,Miss de Bourgh,0.01238193624557261
+Mrs. Phillips,Mr. Bennet,0.024972527472527473
+Mrs. Phillips,Mrs. Bennet,0.020420433996383363
+Mrs. Phillips,Jane,0.01754976580796253
+Mrs. Phillips,Louisa,0.021703296703296706
+Mrs. Phillips,Mr. Hurst,0.018849206349206348
+Mrs. Phillips,Lucases,0.020401390644753478
+Mrs. Phillips,Miss Lucas,0.011845692475463469
+Mrs. Phillips,Sir William,0.018501472754050074
+Mrs. Phillips,Mrs. Gardiner,0.022133458646616543
+Mrs. Phillips,Mr. Gardiner,0.0125
+Mrs. Phillips,Mr. Phillips,0.05392857142857143
+Mrs. Phillips,Mrs. Phillips,0.005357142857142858
+Mrs. Phillips,Fitzwilliam,0.014801587301587302
+Mrs. Phillips,Colonel Forster,0.01281328320802005
+Mrs. Phillips,Mrs. Forster,0.005357142857142858
+Mrs. Phillips,Mr. Jones,0.0415273556231003
+Fitzwilliam,Mr. Darcy,0.023139569635385535
+Fitzwilliam,Mr. Bingley,0.01955762018411183
+Fitzwilliam,Elizabeth,0.020590117767537122
+Fitzwilliam,Miss Bingley,0.020924908424908427
+Fitzwilliam,Lydia,0.010446963216424295
+Fitzwilliam,Lady Catherine,0.02256362058993638
+Fitzwilliam,Mary,0.01281328320802005
+Fitzwilliam,Georgiana,0.028023809523809527
+Fitzwilliam,Collins,0.019066820276497694
+Fitzwilliam,Charlotte,0.020868091762252346
+Fitzwilliam,Mr. Wickham,0.024763535551206785
+Fitzwilliam,Miss de Bourgh,0.026431523022432114
+Fitzwilliam,Mr. Bennet,0.011895604395604397
+Fitzwilliam,Mrs. Bennet,0.011812839059674504
+Fitzwilliam,Jane,0.019291569086651056
+Fitzwilliam,Louisa,0.005357142857142858
+Fitzwilliam,Mr. Hurst,0.005357142857142858
+Fitzwilliam,Lucases,0.012879266750948169
+Fitzwilliam,Miss Lucas,0.011845692475463469
+Fitzwilliam,Sir William,0.014120029455081003
+Fitzwilliam,Mrs. Gardiner,0.016541353383458645
+Fitzwilliam,Mr. Gardiner,0.019642857142857142
+Fitzwilliam,Mr. Phillips,0.029642857142857144
+Fitzwilliam,Mrs. Phillips,0.01430451127819549
+Fitzwilliam,Fitzwilliam,0.005357142857142858
+Fitzwilliam,Colonel Forster,0.020269423558897243
+Fitzwilliam,Mrs. Forster,0.03935714285714286
+Fitzwilliam,Mr. Jones,0.005357142857142858
+Colonel Forster,Mr. Darcy,0.02136132695756127
+Colonel Forster,Mr. Bingley,0.013471701329696557
+Colonel Forster,Elizabeth,0.02211341525857655
+Colonel Forster,Miss Bingley,0.01781135531135531
+Colonel Forster,Lydia,0.030806244653550044
+Colonel Forster,Lady Catherine,0.012239733950260267
+Colonel Forster,Mary,0.020269423558897243
+Colonel Forster,Georgiana,0.005357142857142858
+Colonel Forster,Collins,0.019066820276497694
+Colonel Forster,Charlotte,0.01466371220020855
+Colonel Forster,Mr. Wickham,0.020882257012393997
+Colonel Forster,Miss de Bourgh,0.019406729634002362
+Colonel Forster,Mr. Bennet,0.028241758241758244
+Colonel Forster,Mrs. Bennet,0.024724231464737796
+Colonel Forster,Jane,0.022775175644028103
+Colonel Forster,Louisa,0.021703296703296706
+Colonel Forster,Mr. Hurst,0.018849206349206348
+Colonel Forster,Lucases,0.027923514538558788
+Colonel Forster,Miss Lucas,0.011845692475463469
+Colonel Forster,Sir William,0.018501472754050074
+Colonel Forster,Mrs. Gardiner,0.027725563909774435
+Colonel Forster,Mr. Gardiner,0.033928571428571426
+Colonel Forster,Mr. Phillips,0.029642857142857144
+Colonel Forster,Mrs. Phillips,0.01430451127819549
+Colonel Forster,Fitzwilliam,0.024246031746031748
+Colonel Forster,Colonel Forster,0.005357142857142858
+Colonel Forster,Mrs. Forster,0.07335714285714286
+Colonel Forster,Mr. Jones,0.0415273556231003
+Mrs. Forster,Mr. Darcy,0.012470113568439928
+Mrs. Forster,Mr. Bingley,0.005357142857142858
+Mrs. Forster,Elizabeth,0.01297363031233999
+Mrs. Forster,Miss Bingley,0.005357142857142858
+Mrs. Forster,Lydia,0.01808169375534645
+Mrs. Forster,Lady Catherine,0.005357142857142858
+Mrs. Forster,Mary,0.010327903091060986
+Mrs. Forster,Georgiana,0.005357142857142858
+Mrs. Forster,Collins,0.009927035330261139
+Mrs. Forster,Charlotte,0.005357142857142858
+Mrs. Forster,Mr. Wickham,0.017000978473581212
+Mrs. Forster,Miss de Bourgh,0.01238193624557261
+Mrs. Forster,Mr. Bennet,0.021703296703296706
+Mrs. Forster,Mrs. Bennet,0.016116636528028933
+Mrs. Forster,Jane,0.014066159250585481
+Mrs. Forster,Louisa,0.005357142857142858
+Mrs. Forster,Mr. Hurst,0.005357142857142858
+Mrs. Forster,Lucases,0.012879266750948169
+Mrs. Forster,Miss Lucas,0.005357142857142858
+Mrs. Forster,Sir William,0.005357142857142858
+Mrs. Forster,Mrs. Gardiner,0.022133458646616543
+Mrs. Forster,Mr. Gardiner,0.026785714285714288
+Mrs. Forster,Mr. Phillips,0.005357142857142858
+Mrs. Forster,Mrs. Phillips,0.005357142857142858
+Mrs. Forster,Fitzwilliam,0.024246031746031748
+Mrs. Forster,Colonel Forster,0.035181704260651626
+Mrs. Forster,Mrs. Forster,0.005357142857142858
+Mrs. Forster,Mr. Jones,0.005357142857142858
+Mr. Jones,Mr. Darcy,0.012470113568439928
+Mr. Jones,Mr. Bingley,0.013471701329696557
+Mr. Jones,Elizabeth,0.011450332821300563
+Mr. Jones,Miss Bingley,0.014697802197802198
+Mr. Jones,Lydia,0.012991873396065013
+Mr. Jones,Lady Catherine,0.008798438403701562
+Mr. Jones,Mary,0.01281328320802005
+Mr. Jones,Georgiana,0.005357142857142858
+Mr. Jones,Collins,0.009927035330261139
+Mr. Jones,Charlotte,0.008459332638164755
+Mr. Jones,Mr. Wickham,0.009238421395955643
+Mr. Jones,Miss de Bourgh,0.005357142857142858
+Mr. Jones,Mr. Bennet,0.011895604395604397
+Mr. Jones,Mrs. Bennet,0.011812839059674504
+Mr. Jones,Jane,0.012324355971896957
+Mr. Jones,Louisa,0.03804945054945055
+Mr. Jones,Mr. Hurst,0.03234126984126984
+Mr. Jones,Lucases,0.012879266750948169
+Mr. Jones,Miss Lucas,0.005357142857142858
+Mr. Jones,Sir William,0.014120029455081003
+Mr. Jones,Mrs. Gardiner,0.005357142857142858
+Mr. Jones,Mr. Gardiner,0.005357142857142858
+Mr. Jones,Mr. Phillips,0.029642857142857144
+Mr. Jones,Mrs. Phillips,0.02325187969924812
+Mr. Jones,Fitzwilliam,0.005357142857142858
+Mr. Jones,Colonel Forster,0.020269423558897243
+Mr. Jones,Mrs. Forster,0.005357142857142858
+Mr. Jones,Mr. Jones,0.005357142857142858

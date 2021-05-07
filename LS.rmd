@@ -15,9 +15,9 @@ library(dplyr)
 
 
 ```{r}
-senti <- read.csv("~/GitHub/CVEngineer_Bootcamp/sentiment_sentence.csv")
-char <- read.csv("~/GitHub/CVEngineer_Bootcamp/character_sentence.csv")
-ends <- read.csv("~/GitHub/CVEngineer_Bootcamp/chapter_ends.csv")
+senti <- read.csv("~/GitHub/CVEngineer_Bootcamp/csv/sentiment_sentence.csv")
+char <- read.csv("~/GitHub/CVEngineer_Bootcamp/csv/character_sentence.csv")
+ends <- read.csv("~/GitHub/CVEngineer_Bootcamp/csv/chapter_ends.csv")
 ```
 
 
@@ -128,25 +128,29 @@ sum(contribution >= 10) # 20
 sum(contribution >= 300) # 2
 sum(contribution >= 1) # 20
 
-# Winsernize the data, the upper bound is 10
-# contribution[which(contribution >= )] = 100
 
 ```
 
 ```{r}
 
-contribution[contribution >= 5] = 5
+# Winsernize the data, the upper bound and lower bound is 10 and -10 respectively
+contribution[contribution >= 10] = 10
 
 
 # ridge regression
 start_chap = 1
-end_chap = 61
+end_chap = 12
 alpha_choice = 0
 
 range_invest = ends[c((start_chap),(end_chap+1)),2] # FROM where to where
 
+
+occurred = which(apply(char[,(range_invest[1]+2):(range_invest[2]+1)],1,sum) >= 3)
+
 y = t(data.matrix(senti_invest))[range_invest[1]:range_invest[2]]
-X = t(contribution[,range_invest[1]:range_invest[2]])
+X = t(contribution[occurred ,range_invest[1]:range_invest[2]])
+
+
 fit2 = glm.fit(X,y)
 
 
@@ -163,7 +167,7 @@ beta = beta/norm(beta, type='2')
 
 
 df <- data.frame(
-  char = char[,1],
+  char = char[occurred,1],
   be = beta
   )
 
